@@ -11,8 +11,8 @@ bool isLucky(int a)
 }
 int main()
 {
-    { ios::sync_with_stdio(0); cin.tie(0); cout.tie(0); } // to fast input and output.
-    int n; cin >> n;
+        { ios::sync_with_stdio(0); cin.tie(0); cout.tie(0); } // to fast input and output.
+        int n; cin >> n;
 	for (int i = 1; i <= n; i++) if (n % i == 0 && isLucky(i)) { cout << "YES"; return 0; }
 	cout << "NO";
 }

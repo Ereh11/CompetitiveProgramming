@@ -29,10 +29,7 @@ int main()
 					cout << dec[i].second << " ";
 					if (inc.back().first.first < inc.back().first.second) cout << inc.back().second << '\n', inc.back().first.first++;
 					else
-					{
-						inc.pop_back();
-						cout << inc.back().second <<'\n', inc.back().first.first++;
-					}
+					{  inc.pop_back(); cout << inc.back().second <<'\n', inc.back().first.first++; }
 					dec[i].first.first--;
 				}
 			}

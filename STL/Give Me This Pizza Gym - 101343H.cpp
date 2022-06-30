@@ -3,18 +3,18 @@
 using namespace std;
 int main()
 {
-    FastIO;
-    int n;
-	while (cin >> n, n != 0)
+	FastIO;
+	// using monotonicstack
+	int n; cin >> n; stack<int> st; vector<int> res(n), v(n);
+	for(auto&it:v) cin>>it;
+	for (int i = n-1; i >=0; i--)
 	{
-		queue<int> qu; vector<int> disc;
-		for (int i = 1; i <= n; i++) qu.push(i);
-		while (qu.size() > 1) {
-			disc.push_back(qu.front()), qu.pop();
-			qu.push(qu.front()), qu.pop();
-		}
-		cout << "Discarded cards:" << ((!disc.empty()) ? " " : "");
-		for (int i = 0; i < disc.size(); i++) cout << disc[i] << ((i != disc.size() - 1) ? ", " : "");
-		cout << "\nRemaining card: " << qu.front() << "\n";
+		while (!st.empty() && st.top() <= v[i]) st.pop();
+		res[i] = st.empty() ? -1 : st.top();
+		st.push(v[i]);
 	}
+	for (auto& it : res) cout << it << " ";
 }
+
+    
+ 

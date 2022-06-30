@@ -4,16 +4,36 @@ using namespace std;
 int main()
 {
     FastIO;
-    string s; cin >> s;
-	stack<char> st;
-	for (auto& it : s)
+    int n, x; string s; 
+	cin >> n;
+	deque<int> dq; bool rev = 0;
+	while (n-- && cin >> s)
 	{
-		if (st.empty()) st.push(it);
-		else
-		{
-			if (st.top() == '+' && it == '+' || st.top() == '-' && it == '-') st.pop();
-			else st.push(it);
+		if (s == "reverse") rev = !rev;
+
+		if (s == "toFront" && !rev) cin >> x, dq.push_front(x);
+		else if (s == "toFront" && rev)  cin >> x, dq.push_back(x);
+
+		else if (s == "push_back" && !rev) cin >> x, dq.push_back(x);
+		else if (s == "push_back" && rev) cin >> x, dq.push_front(x);
+
+		else if (s == "front" && !rev) {
+			if (dq.empty()) cout << "No job for Ada?\n";
+			else cout << dq.front() << "\n", dq.pop_front();
 		}
+		else if (s == "front" && rev) {
+			if (dq.empty()) cout << "No job for Ada?\n";
+			else cout << dq.back() << "\n", dq.pop_back();
+		}
+
+		else if (s == "back" && !rev) {
+			if (dq.empty()) cout << "No job for Ada?\n";
+			else cout << dq.back() << "\n", dq.pop_back();
+		}
+		else if (s == "back" && rev) {
+			if (dq.empty()) cout << "No job for Ada?\n";
+			else cout << dq.front() << "\n", dq.pop_front();
+		}
+		
 	}
-	cout << ((st.empty()) ? "Yes" : "No");
 }

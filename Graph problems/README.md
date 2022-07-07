@@ -5,7 +5,7 @@
 | ***Bicoloring***  | [Bicoloring UVA - 10004](https://vjudge.net/contest/479503#problem/H)|
 | ***BUGLIFE***  | [A Bug’s Life SPOJ - BUGLIFE](https://www.spoj.com/problems/BUGLIFE/en/)|
 | ***DZY Loves Chemistry***  | [DZY Loves Chemistry CodeForces - 445B](https://codeforces.com/problemset/problem/445/B)|
-| ***Just Next***  | [Just Next !!! SPOJ - JNEXT](https://www.spoj.com/problems/JNEXT/)|
+| ***PolandBall and Forest***  | [PolandBall and Forest CodeForces - 755C](https://codeforces.com/problemset/problem/755/C)|
 | ***Give Me This Pizza***  | [Give Me This Pizza Gym - 101343H](https://codeforces.com/gym/101343/problem/H)|
 | ***Easy Stack***  | [Easy Stack SPOJ - STACKEZ](https://www.spoj.com/problems/STACKEZ/)|
 | ***Easy Queue***  | [Easy Queue SPOJ - QUEUEEZ](https://www.spoj.com/problems/QUEUEEZ/)|

@@ -8,7 +8,7 @@
 | ***PolandBall and Forest***  | [PolandBall and Forest CodeForces - 755C](https://codeforces.com/problemset/problem/755/C)|
 | ***Mail Stamps***  | [Mail Stamps CodeForces - 29C](https://codeforces.com/problemset/problem/29/C)|
 | ***Road Map***  | [Road Map CodeForces - 34D](https://codeforces.com/problemset/problem/34/D)|
-| ***Easy Queue***  | [Easy Queue SPOJ - QUEUEEZ](https://www.spoj.com/problems/QUEUEEZ/)|
+| ***Is it a tree SPOJ***  | [Is it a tree SPOJ - PT07Y ](https://www.spoj.com/problems/PT07Y/en/)|
 | ***Card Deck***  | [Card Deck CodeForces - 1492B](https://codeforces.com/problemset/problem/1492/B)|
 | ***Alternating Current***  | [Alternating Current CodeForces - 343B](https://codeforces.com/problemset/problem/343/B)|
 | ***Ada and Queue***  | [Ada and Queue SPOJ - ADAQUEUE](https://www.spoj.com/problems/ADAQUEUE/)|

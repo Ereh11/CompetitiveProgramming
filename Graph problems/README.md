@@ -4,7 +4,7 @@
 | ***Party CodeForces***  | [Party CodeForces - 115A](https://codeforces.com/contest/115/problem/A)|
 | ***Bicoloring***  | [Bicoloring UVA - 10004](https://vjudge.net/contest/479503#problem/H)|
 | ***BUGLIFE***  | [A Bug’s Life SPOJ - BUGLIFE](https://www.spoj.com/problems/BUGLIFE/en/)|
-| ***Jzzhu and Children***  | [Jzzhu and Children CodeForces - 450A](https://codeforces.com/problemset/problem/450/A)|
+| ***DZY Loves Chemistry***  | [DZY Loves Chemistry CodeForces - 445B](https://codeforces.com/problemset/problem/445/B)|
 | ***Just Next***  | [Just Next !!! SPOJ - JNEXT](https://www.spoj.com/problems/JNEXT/)|
 | ***Give Me This Pizza***  | [Give Me This Pizza Gym - 101343H](https://codeforces.com/gym/101343/problem/H)|
 | ***Easy Stack***  | [Easy Stack SPOJ - STACKEZ](https://www.spoj.com/problems/STACKEZ/)|

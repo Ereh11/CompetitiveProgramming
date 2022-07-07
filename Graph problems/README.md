@@ -1,8 +1,8 @@
 | Challenge | Link |
 | ------------------ | ------------------|
 | ***Pick up sticks***  | [Pick up sticks UVA - 11686](https://vjudge.net/contest/479503#problem/J)|
-| ***Party CodeForces***  | [Party CodeForces - 115A ](https://codeforces.com/contest/115/problem/A)|
-| ***Parentheses Balance***  | [Parentheses Balance UVA - 673](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=614)|
+| ***Party CodeForces***  | [Party CodeForces - 115A](https://codeforces.com/contest/115/problem/A)|
+| ***Bicoloring***  | [Bicoloring UVA - 10004](https://vjudge.net/contest/479503#problem/H)|
 | ***Left Rotation***  | [Left Rotation HackerRank - array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|
 | ***Jzzhu and Children***  | [Jzzhu and Children CodeForces - 450A](https://codeforces.com/problemset/problem/450/A)|
 | ***Just Next***  | [Just Next !!! SPOJ - JNEXT](https://www.spoj.com/problems/JNEXT/)|

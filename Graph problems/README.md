@@ -9,7 +9,7 @@
 | ***Mail Stamps***  | [Mail Stamps CodeForces - 29C](https://codeforces.com/problemset/problem/29/C)|
 | ***Road Map***  | [Road Map CodeForces - 34D](https://codeforces.com/problemset/problem/34/D)|
 | ***Is it a tree SPOJ***  | [Is it a tree SPOJ - PT07Y ](https://www.spoj.com/problems/PT07Y/en/)|
-| ***Card Deck***  | [Card Deck CodeForces - 1492B](https://codeforces.com/problemset/problem/1492/B)|
+| ***Ordering Tasks***  | [Ordering Tasks UVA - 10305](https://vjudge.net/contest/479503#problem/G)|
 | ***Alternating Current***  | [Alternating Current CodeForces - 343B](https://codeforces.com/problemset/problem/343/B)|
 | ***Ada and Queue***  | [Ada and Queue SPOJ - ADAQUEUE](https://www.spoj.com/problems/ADAQUEUE/)|
 | ***D1. Great Vova Wall (Version 1)***  | [D1. Great Vova Wall (Version 1) CodeForces - 1092D1](https://codeforces.com/contest/1092/problem/D1)|

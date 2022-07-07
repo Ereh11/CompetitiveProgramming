@@ -1,7 +1,7 @@
 | Challenge | Link |
 | ------------------ | ------------------|
 | ***Pick up sticks***  | [Pick up sticks UVA - 11686](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2733)|
-| ***Rails***  | [Rails UVA - 514](https://vjudge.net/problem/UVA-514)|
+| ***Party CodeForces***  | [Party CodeForces - 115A ](https://codeforces.com/contest/115/problem/A)|
 | ***Parentheses Balance***  | [Parentheses Balance UVA - 673](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=614)|
 | ***Left Rotation***  | [Left Rotation HackerRank - array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|
 | ***Jzzhu and Children***  | [Jzzhu and Children CodeForces - 450A](https://codeforces.com/problemset/problem/450/A)|

@@ -3,7 +3,7 @@
 | ***Pick up sticks***  | [Pick up sticks UVA - 11686](https://vjudge.net/contest/479503#problem/J)|
 | ***Party CodeForces***  | [Party CodeForces - 115A](https://codeforces.com/contest/115/problem/A)|
 | ***Bicoloring***  | [Bicoloring UVA - 10004](https://vjudge.net/contest/479503#problem/H)|
-| ***Left Rotation***  | [Left Rotation HackerRank - array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|
+| ***BUGLIFE***  | [A Bug’s Life SPOJ - BUGLIFE](https://www.spoj.com/problems/BUGLIFE/en/)|
 | ***Jzzhu and Children***  | [Jzzhu and Children CodeForces - 450A](https://codeforces.com/problemset/problem/450/A)|
 | ***Just Next***  | [Just Next !!! SPOJ - JNEXT](https://www.spoj.com/problems/JNEXT/)|
 | ***Give Me This Pizza***  | [Give Me This Pizza Gym - 101343H](https://codeforces.com/gym/101343/problem/H)|

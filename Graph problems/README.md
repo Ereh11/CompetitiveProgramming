@@ -12,4 +12,4 @@
 | ***Ordering Tasks***  | [Ordering Tasks UVA - 10305](https://vjudge.net/contest/479503#problem/G)|
 | ***Friends***  | [Friends UVA - 10608](https://vjudge.net/contest/479503#problem/B)|
 | ***Nature***  | [Nature UVA - 10685 ](https://vjudge.net/contest/479503#problem/C)|
-| ***D1. Great Vova Wall (Version 1)***  | [D1. Great Vova Wall (Version 1) CodeForces - 1092D1](https://codeforces.com/contest/1092/problem/D1)|
+| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

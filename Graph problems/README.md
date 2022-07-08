@@ -14,7 +14,7 @@
 | ***Nature***  | [Nature UVA - 10685 ](https://vjudge.net/contest/479503#problem/C)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Two Buttons***  | [Two Buttons CodeForces - 520B](https://codeforces.com/problemset/problem/520/B)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***Fire Again***  | [Fire Again CodeForces - 35C]https://codeforces.com/problemset/problem/35/C)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

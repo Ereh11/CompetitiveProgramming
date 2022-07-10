@@ -19,7 +19,7 @@
 | ***Cthulhu CodeForces***  | [Cthulhu CodeForces - 103B](https://codeforces.com/contest/103/problem/B)|
 | ***King's Path CodeForces***  | [King's Path CodeForces - 242C](https://codeforces.com/contest/242/problem/C)|
 | ***Brain Network (medium)***  | [Brain Network (medium) CodeForces - 690C2](https://codeforces.com/contest/690/problem/C2)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***Brain Network (easy)***  | [C1. Brain Network (easy)](https://codeforces.com/contest/690/problem/C1)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

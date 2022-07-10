@@ -20,7 +20,7 @@
 | ***King's Path CodeForces***  | [King's Path CodeForces - 242C](https://codeforces.com/contest/242/problem/C)|
 | ***Brain Network (medium)***  | [Brain Network (medium) CodeForces - 690C2](https://codeforces.com/contest/690/problem/C2)|
 | ***Brain Network (easy)***  | [C1. Brain Network (easy)](https://codeforces.com/contest/690/problem/C1)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***The Wall (easy)***  | [D1. The Wall (easy)](https://codeforces.com/contest/690/problem/D1)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

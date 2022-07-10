@@ -17,7 +17,7 @@
 | ***Fire Again***  | [Fire Again CodeForces - 35C](https://codeforces.com/problemset/problem/35/C)|
 | ***Counting Cells in a Blob***  | [Counting Cells in a Blob UVA - 871](https://vjudge.net/contest/480082#problem/E)|
 | ***Cthulhu CodeForces***  | [Cthulhu CodeForces - 103B](https://codeforces.com/contest/103/problem/B)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***King's Path CodeForces***  | [King's Path CodeForces - 242C](https://codeforces.com/contest/242/problem/C)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

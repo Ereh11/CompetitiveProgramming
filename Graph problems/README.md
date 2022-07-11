@@ -22,7 +22,7 @@
 | ***Brain Network (easy)***  | [C1. Brain Network (easy)](https://codeforces.com/contest/690/problem/C1)|
 | ***The Wall (easy)***  | [D1. The Wall (easy)](https://codeforces.com/contest/690/problem/D1)|
 | ***Valera and Elections***  | [Valera and Elections CodeForces - 369C](https://codeforces.com/contest/369/problem/C)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***Maze***  | [Maze CodeForces - 377A](https://codeforces.com/contest/377/problem/A)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

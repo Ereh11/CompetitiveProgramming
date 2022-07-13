@@ -25,6 +25,6 @@
 | ***Maze***  | [Maze CodeForces - 377A](https://codeforces.com/contest/377/problem/A)|
 | ***Love Rescue***  | [Love Rescue CodeForces - 939D](https://codeforces.com/contest/939/problem/D)|
 | ***Learning Languages***  | [Learning Languages CodeForces - 277A](https://codeforces.com/contest/277/problem/A)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***Mocha and Diana (Easy Version***  | [Mocha and Diana (Easy Version)](https://codeforces.com/contest/1559/problem/D1)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

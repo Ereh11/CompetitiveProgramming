@@ -24,7 +24,7 @@
 | ***Valera and Elections***  | [Valera and Elections CodeForces - 369C](https://codeforces.com/contest/369/problem/C)|
 | ***Maze***  | [Maze CodeForces - 377A](https://codeforces.com/contest/377/problem/A)|
 | ***Love Rescue***  | [Love Rescue CodeForces - 939D](https://codeforces.com/contest/939/problem/D)|
-| ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
+| ***Learning Languages***  | [Learning Languages CodeForces - 277A](https://codeforces.com/contest/277/problem/A)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|
 | ***Knight Moves***  | [Knight Moves UVA - 439](https://vjudge.net/contest/480082#problem/B)|

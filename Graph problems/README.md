@@ -27,4 +27,10 @@
 | ***Learning Languages***  | [Learning Languages CodeForces - 277A](https://codeforces.com/contest/277/problem/A)|
 | ***Mocha and Diana (Easy Version)***  | [Mocha and Diana (Easy Version) CodeForces](https://codeforces.com/contest/1559/problem/D1)|
 | ***Harmonious Graph***  | [Harmonious Graph CodeForces - 1253D](https://codeforces.com/contest/1253/problem/D)|
+| ***Edgy Trees***  | [Edgy Trees CodeForces - 1139C](https://codeforces.com/problemset/problem/1139/C)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+

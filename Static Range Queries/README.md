@@ -5,7 +5,7 @@
 |[Greg and Array CodeForces](https://codeforces.com/problemset/problem/296/C)|
 |[Ilya and Queries CodeForces](https://codeforces.com/problemset/problem/313/B)|
 |[Alphabetic Removals](https://codeforces.com/contest/999/problem/C)|
-|[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
+|[Andryusha and Socks](https://codeforces.com/contest/780/problem/A)|
 |[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
 |[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
 |[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|

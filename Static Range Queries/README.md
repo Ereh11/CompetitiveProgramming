@@ -8,7 +8,7 @@
 |[Andryusha and Socks](https://codeforces.com/contest/780/problem/A)|
 |[Letter](https://codeforces.com/contest/43/problem/B)|
 |[Pangram](https://codeforces.com/contest/520/problem/A)|
-|[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
+|[Sereja and Suffixes](https://codeforces.com/contest/368/problem/B)|
 |[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
 |[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
 |[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|

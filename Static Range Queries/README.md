@@ -13,7 +13,7 @@
 |[Polycarp's Practice CodeForces](https://codeforces.com/contest/1006/problem/B)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Mike and Children](https://codeforces.com/contest/1121/problem/B)|
-|[Towers](https://codeforces.com/contest/37/problem/A)|
+|[Snacktower](https://codeforces.com/problemset/problem/767/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|

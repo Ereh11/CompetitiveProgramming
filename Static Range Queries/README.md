@@ -15,7 +15,7 @@
 |[Mike and Children](https://codeforces.com/contest/1121/problem/B)|
 |[Snacktower](https://codeforces.com/problemset/problem/767/A)|
 |[Greg's Workout](https://codeforces.com/contest/255/problem/A)|
-|[Towers](https://codeforces.com/contest/37/problem/A)|
+|[Guess the Permutation](https://codeforces.com/problemset/problem/618/B)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|

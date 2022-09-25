@@ -14,7 +14,7 @@
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Mike and Children](https://codeforces.com/contest/1121/problem/B)|
 |[Snacktower](https://codeforces.com/problemset/problem/767/A)|
-|[Towers](https://codeforces.com/contest/37/problem/A)|
+|[Greg's Workout](https://codeforces.com/contest/255/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|

@@ -17,7 +17,7 @@
 |[Greg's Workout](https://codeforces.com/contest/255/problem/A)|
 |[Guess the Permutation](https://codeforces.com/problemset/problem/618/B)|
 |[Less or Equal](https://codeforces.com/contest/977/problem/C)|
-|[Towers](https://codeforces.com/contest/37/problem/A)|
+|[Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|
 |[Towers](https://codeforces.com/contest/37/problem/A)|

@@ -13,3 +13,15 @@
 | ***Alternating Current***  | [Alternating Current CodeForces - 343B](https://codeforces.com/problemset/problem/343/B)|
 | ***Ada and Queue***  | [Ada and Queue SPOJ - ADAQUEUE](https://www.spoj.com/problems/ADAQUEUE/)|
 | ***D1. Great Vova Wall (Version 1)***  | [D1. Great Vova Wall (Version 1) CodeForces - 1092D1](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/26/problem/B)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

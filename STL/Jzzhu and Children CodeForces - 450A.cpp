@@ -4,22 +4,13 @@ using namespace std;
 int main()
 {
     FastIO;
-    int n; string s; cin >> n;
-	cin.ignore();
-	while (n-- && getline(cin, s))
-	{
-		stack<char> st;
-		for (auto& it : s)
-		{
-			if (it == ' ') continue;
-			if (st.empty()) st.push(it);
-			else
-			{
-				if (st.top() == '(' && it == ')' || st.top() == '[' && it == ']') st.pop();
-				else st.push(it);
-			}
-		}
-		cout << ((st.empty()) ? "Yes" : "No") << "\n";
-	
+   int n, m; cin >> n >> m;
+   queue<pair<int, int>> qu;
+   for (int i = 1, x; i <= n && cin >> x; i++) qu.push({ x, i });
+   while (qu.sz > 1)
+        {
+	    if (qu.front().first <= m) qu.pop();
+	    else qu.push({qu.front().first - m, qu.front().second}), qu.pop();
 	}
+   cout << qu.front().second;
 }

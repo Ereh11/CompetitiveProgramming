@@ -14,8 +14,8 @@
 | ***Ada and Queue***  | [Ada and Queue SPOJ - ADAQUEUE](https://www.spoj.com/problems/ADAQUEUE/)|
 | ***D1. Great Vova Wall (Version 1)***  | [D1. Great Vova Wall (Version 1) CodeForces - 1092D1](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/26/problem/B)|
-| ***Indian Summer***  | [Indian Summer](https://codeforces.com/problemset/problem/44/A)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Indian Summer***  | [Indian Summer CodeForces](https://codeforces.com/problemset/problem/44/A)|
+| ***Boy or Girl***  | [Boy or Girl CodeForces](https://codeforces.com/problemset/problem/236/A)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

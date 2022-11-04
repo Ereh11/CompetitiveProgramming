@@ -17,7 +17,7 @@
 | ***Indian Summer***  | [Indian Summer CodeForces](https://codeforces.com/problemset/problem/44/A)|
 | ***Boy or Girl***  | [Boy or Girl CodeForces](https://codeforces.com/problemset/problem/236/A)|
 | ***Plug-in***  | [Plug-in CodeForces](https://codeforces.com/contest/81/problem/A)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Broken Keyboard***  | [Broken Keyboard - 11988](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3139)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

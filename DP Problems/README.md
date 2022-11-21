@@ -1,7 +1,7 @@
 | ID | Challenge | Link |
 |--|------------------ | ------------------|
 |01| ***Boredom***  | [Boredom CodeForces](https://codeforces.com/contest/455/problem/A)|
-|02| ***From Hero to Zero***  | [From Hero to Zero CodeForces](https://codeforces.com/contest/1175/problem/A)|
+|02| ***Easy Longest Increasing Subsequence***  | [ELIS - Easy Longest Increasing Subsequence spoj](https://www.spoj.com/problems/ELIS/)|
 |03| ***The Ultimate Square***  | [The Ultimate Square](https://codeforces.com/contest/1748/problem/A)|
 |04| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |05| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

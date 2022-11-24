@@ -20,7 +20,7 @@
 |18|[Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B)|
 |19|[Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B)|
 |20|[From S To T](https://codeforces.com/contest/1194/problem/C)|
-|21|[Towers](https://codeforces.com/contest/37/problem/A)|
+|21|[Lost Permutation](https://codeforces.com/contest/1759/problem/B)|
 |22|[Towers](https://codeforces.com/contest/37/problem/A)|
 |23|[Towers](https://codeforces.com/contest/37/problem/A)|
 |24|[Towers](https://codeforces.com/contest/37/problem/A)|

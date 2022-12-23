@@ -21,7 +21,7 @@
 |19|[Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B)|
 |20|[From S To T](https://codeforces.com/contest/1194/problem/C)|
 |21|[Lost Permutation](https://codeforces.com/contest/1759/problem/B)|
-|22|[Towers](https://codeforces.com/contest/37/problem/A)|
+|22|[Voting for Photos](https://codeforces.com/contest/637/problem/A)|
 |23|[Towers](https://codeforces.com/contest/37/problem/A)|
 |24|[Towers](https://codeforces.com/contest/37/problem/A)|
 |25|[Towers](https://codeforces.com/contest/37/problem/A)|

@@ -21,7 +21,7 @@
 | ***Catch Overflow!***  | [Catch Overflow! CodeForces](https://codeforces.com/contest/1175/problem/B)|
 | ***Chat Order***  | [Chat Order CodeForces](https://codeforces.com/contest/637/problem/B)|
 | ***Mahmoud and Ehab and the message***  | [Mahmoud and Ehab and the message CodeForces](https://codeforces.com/contest/959/problem/B)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Summarize to the Power of Two***  | [Summarize to the Power of Two CodeForces](https://codeforces.com/contest/1005/problem/C)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

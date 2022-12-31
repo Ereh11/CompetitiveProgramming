@@ -23,7 +23,7 @@
 |21|[Lost Permutation](https://codeforces.com/contest/1759/problem/B)|
 |22|[Voting for Photos](https://codeforces.com/contest/637/problem/A)|
 |23|[Similar Pairs](https://codeforces.com/contest/1360/problem/C)|
-|24|[Towers](https://codeforces.com/contest/37/problem/A)|
+|24|[Do Not Be Distracted](https://codeforces.com/contest/1520/problem/A)|
 |25|[Towers](https://codeforces.com/contest/37/problem/A)|
 |26|[Towers](https://codeforces.com/contest/37/problem/A)|
 |27|[Towers](https://codeforces.com/contest/37/problem/A)|

@@ -2,7 +2,7 @@
 | ------------------ | ------------------|
 | ***Magic Powder - 1***  | [Magic Powder - 1 670D1](https://codeforces.com/contest/670/problem/D1)|
 | ***Magic Powder - 2***  | [Magic Powder - 2 670D2](https://codeforces.com/contest/670/problem/D2)|
-| ***Bicoloring***  | [Bicoloring UVA - 10004](https://vjudge.net/contest/479503#problem/H)|
+| ***Hamburgers***  | [Hamburgers](https://codeforces.com/contest/371/problem/C)|
 | ***BUGLIFE***  | [A Bug’s Life SPOJ - BUGLIFE](https://www.spoj.com/problems/BUGLIFE/en/)|
 | ***DZY Loves Chemistry***  | [DZY Loves Chemistry CodeForces - 445B](https://codeforces.com/problemset/problem/445/B)|
 | ***PolandBall and Forest***  | [PolandBall and Forest CodeForces - 755C](https://codeforces.com/problemset/problem/755/C)|

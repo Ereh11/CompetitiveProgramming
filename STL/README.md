@@ -23,7 +23,7 @@
 | ***Mahmoud and Ehab and the message***  | [Mahmoud and Ehab and the message CodeForces](https://codeforces.com/contest/959/problem/B)|
 | ***Summarize to the Power of Two***  | [Summarize to the Power of Two CodeForces](https://codeforces.com/contest/1005/problem/C)|
 | ***Honest Coach CodeForces***  | [Honest Coach CodeForces - 1360B](https://codeforces.com/contest/1360/problem/B)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***Collecting Syrup***  | [Collecting Syrup](https://codeforces.com/gym/103584/problem/D)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

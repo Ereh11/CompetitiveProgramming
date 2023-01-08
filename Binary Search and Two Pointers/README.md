@@ -4,7 +4,7 @@
 | ***Magic Powder - 2***  | [Magic Powder - 2 670D2](https://codeforces.com/contest/670/problem/D2)|
 | ***Hamburgers***  | [Hamburgers](https://codeforces.com/contest/371/problem/C)|
 | ***Kefa and Company***  | [Kefa and Company](https://codeforces.com/contest/580/problem/B)|
-| ***DZY Loves Chemistry***  | [DZY Loves Chemistry CodeForces - 445B](https://codeforces.com/problemset/problem/445/B)|
+| ***Burning Midnight Oil***  | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B)|
 | ***PolandBall and Forest***  | [PolandBall and Forest CodeForces - 755C](https://codeforces.com/problemset/problem/755/C)|
 | ***Mail Stamps***  | [Mail Stamps CodeForces - 29C](https://codeforces.com/problemset/problem/29/C)|
 | ***Road Map***  | [Road Map CodeForces - 34D](https://codeforces.com/problemset/problem/34/D)|

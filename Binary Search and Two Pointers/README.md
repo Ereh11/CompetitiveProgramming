@@ -8,7 +8,7 @@
 | ***Truffula Trouble***  | [Truffula Trouble](https://codeforces.com/gym/103584/problem/E)|
 | ***Aggressive cows***  | [Aggressive cows SPOJ - AGGRCOW](https://www.spoj.com/problems/AGGRCOW/en/)|
 | ***March Rain***  | [March Rain](https://codeforces.com/gym/101028/problem/I)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Counting Kangaroos is Fun***  | [Counting Kangaroos is Fun](https://codeforces.com/problemset/problem/372/A)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

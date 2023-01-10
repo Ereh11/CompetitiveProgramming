@@ -9,7 +9,7 @@
 | ***Aggressive cows***  | [Aggressive cows SPOJ - AGGRCOW](https://www.spoj.com/problems/AGGRCOW/en/)|
 | ***March Rain***  | [March Rain](https://codeforces.com/gym/101028/problem/I)|
 | ***Counting Kangaroos is Fun***  | [Counting Kangaroos is Fun](https://codeforces.com/problemset/problem/372/A)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Books***  | [Books](https://codeforces.com/problemset/problem/279/B)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

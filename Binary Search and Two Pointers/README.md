@@ -6,7 +6,7 @@
 | ***Kefa and Company***  | [Kefa and Company](https://codeforces.com/contest/580/problem/B)|
 | ***Burning Midnight Oil***  | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B)|
 | ***Truffula Trouble***  | [Truffula Trouble](https://codeforces.com/gym/103584/problem/E)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Aggressive cows***  | [Aggressive cows SPOJ - AGGRCOW](https://www.spoj.com/problems/AGGRCOW/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

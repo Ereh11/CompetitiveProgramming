@@ -8,19 +8,14 @@ int dy[] = { 0, 0, 1, -1 };
 bool vis[1000][1000];
 int n, m;
 bool valid(int r, int c) { return (r < n && ~r && c < m && ~c); }
-void BFS(int r, int c, vector<vector<char>>& v)
+void DFS(int r, int c, vector<vector<char>>& v)
 {
-    queue<pair<int, int>> qu; qu.push({ r, c }), vis[r][c] = 1;
-    while (!qu.empty())
+    vis[r][c] = 1;
+    for (int i = 0; i < 4; i++)  
     {
-        pair<int, int> ft = qu.front(); qu.pop();
-       
-        for (int i = 0; i < 4; i++)
-        {
-            int x = ft.first + dx[i], y = ft.second + dy[i];
-            if (valid(x, y) && v[x][y] == '.' && !vis[x][y]) 
-                v[x][y] = 1, qu.push({ x,y });
-        }
+        int x = r + dx[i], y = c + dy[i];
+        if (valid(x, y) && v[x][y] == '.' && !vis[x][y])
+            DFS(x, y, v), vis[x][y] = 1;
     }
 }
 int main()
@@ -35,7 +30,7 @@ int main()
     
     for (int i = 0; i < n; i++)
         for (int j = 0; j < m; j++)
-            if (!vis[i][j] && v[i][j] == '.') ans++, BFS(i, j, v);
+            if (!vis[i][j] && v[i][j] == '.') ans++, DFS(i, j, v);
 
     cout << ans;
 }

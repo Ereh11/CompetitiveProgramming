@@ -31,7 +31,7 @@
 | ***Kefa and Park***  | [Kefa and Park](https://codeforces.com/problemset/problem/580/C)|
 | ***Longest path in a tree***  | [Longest path in a tree SPOJ - PT07Z](https://www.spoj.com/problems/PT07Z/en/)|
 | ***Counting Rooms***  | [Counting Rooms](https://cses.fi/problemset/task/1192)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Is Graph Bipartite?***  | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

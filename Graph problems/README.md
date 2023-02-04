@@ -36,7 +36,7 @@
 | ***Keys and Rooms***  | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|
 | ***01 Matrix***  | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)|
 | ***Shortest Path in Binary Matrix***  | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Nearest Exit from Entrance in Maze***  | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

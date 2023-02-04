@@ -35,7 +35,7 @@
 | ***All Paths From Source to Target***  | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|
 | ***Keys and Rooms***  | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|
 | ***01 Matrix***  | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Shortest Path in Binary Matrix***  | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

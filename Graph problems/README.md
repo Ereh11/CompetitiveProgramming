@@ -37,8 +37,8 @@
 | ***01 Matrix***  | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)|
 | ***Shortest Path in Binary Matrix***  | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/)|
 | ***Nearest Exit from Entrance in Maze***  | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Flood Fill***  | [733. Flood Fill](https://leetcode.com/problems/flood-fill/)|
+| ***Number of Islands***  | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/?envType=study-plan&id=graph-i)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

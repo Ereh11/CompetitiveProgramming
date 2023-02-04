@@ -34,7 +34,7 @@
 | ***Is Graph Bipartite?***  | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|
 | ***All Paths From Source to Target***  | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|
 | ***Keys and Rooms***  | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***01 Matrix***  | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

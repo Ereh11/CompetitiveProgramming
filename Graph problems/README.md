@@ -32,7 +32,7 @@
 | ***Longest path in a tree***  | [Longest path in a tree SPOJ - PT07Z](https://www.spoj.com/problems/PT07Z/en/)|
 | ***Counting Rooms***  | [Counting Rooms](https://cses.fi/problemset/task/1192)|
 | ***Is Graph Bipartite?***  | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***All Paths From Source to Target***  | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

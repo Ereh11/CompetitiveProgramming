@@ -4,7 +4,7 @@
 |02| ***Easy Longest Increasing Subsequence***  | [ELIS - Easy Longest Increasing Subsequence spoj](https://www.spoj.com/problems/ELIS/)|
 |03| ***Princess Faridae***  | [TFARIDA - Princess Farida spoj](https://www.spoj.com/problems/FARIDA/en/)|
 |04| ***Wachovia Bank***  | [WACHOVIA - Wachovia Bank spoj](https://www.spoj.com/problems/WACHOVIA/en/)|
-|05| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|05| ***Delete and Earn***  | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|
 |06| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |07| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |08| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

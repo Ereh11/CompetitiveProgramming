@@ -41,7 +41,7 @@
 | ***Number of Islands***  | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/?envType=study-plan&id=graph-i)|
 | ***Max Area of Island***  | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|
 | ***Number of Closed Islands***  | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/?envType=study-plan&id=graph-i)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Number of Enclaves***  | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

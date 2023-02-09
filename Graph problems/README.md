@@ -43,10 +43,10 @@
 | ***Number of Closed Islands***  | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/?envType=study-plan&id=graph-i)|
 | ***Number of Enclaves***  | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|
 | ***Count Sub Islands***  | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/?envType=study-plan&id=graph-i)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***As Far from Land as Possible***  | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|
+| ***Number of Provinces***  | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/?envType=study-plan&id=graph-i)|
+| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/?envType=study-plan&id=graph-i)|
+| ***Number of Operations to Make Network Connected***  | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/?envType=study-plan&id=graph-i)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

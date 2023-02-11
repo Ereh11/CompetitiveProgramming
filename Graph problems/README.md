@@ -50,7 +50,7 @@
 | ***Number of Operations to Make Network Connected***  | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|
 | ***Nearest Exit from Entrance in Maze***  | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|
 | ***Water and Jug Problem***  | [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/?envType=study-plan&id=graph-i)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Jump Game III***  | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 

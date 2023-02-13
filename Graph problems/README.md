@@ -52,6 +52,7 @@
 | ***Water and Jug Problem***  | [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/?envType=study-plan&id=graph-i)|
 | ***Jump Game III***  | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|
 | ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
-
-
-
+| ***Shortest Bridge***  | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|
+| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
+| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
+| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|

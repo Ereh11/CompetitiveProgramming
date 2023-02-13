@@ -53,6 +53,6 @@
 | ***Jump Game III***  | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|
 | ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***Shortest Bridge***  | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|
-| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
+| ***Minimum Jumps to Reach Home***  | [1654. Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|
 | ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|

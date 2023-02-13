@@ -51,6 +51,6 @@
 | ***Nearest Exit from Entrance in Maze***  | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|
 | ***Water and Jug Problem***  | [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/?envType=study-plan&id=graph-i)|
 | ***Jump Game III***  | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 

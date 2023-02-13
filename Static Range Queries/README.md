@@ -25,7 +25,7 @@
 |23|[Similar Pairs](https://codeforces.com/contest/1360/problem/C)|
 |24|[Do Not Be Distracted](https://codeforces.com/contest/1520/problem/A)|
 |25|[Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A)|
-|26|[Towers](https://codeforces.com/contest/37/problem/A)|
+|26|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/?envType=study-plan&id=graph-i)|
 |27|[Towers](https://codeforces.com/contest/37/problem/A)|
 |28|[Towers](https://codeforces.com/contest/37/problem/A)|
 |29|[Towers](https://codeforces.com/contest/37/problem/A)|

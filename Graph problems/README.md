@@ -54,5 +54,5 @@
 | ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***Shortest Bridge***  | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|
 | ***Minimum Jumps to Reach Home***  | [1654. Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|
-| ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
+| ***Find Eventual Safe States***  | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/?envType=study-plan&id=graph-i)|
 | ***Pacific Atlantic Water Flow***  | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|

@@ -56,8 +56,7 @@
 | ***Minimum Jumps to Reach Home***  | [1654. Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|
 | ***Find Eventual Safe States***  | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/?envType=study-plan&id=graph-i)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
-| ***Is Graph Bipartite?***  | [785. Is Graph Bipartite?](785. Is Graph Bipartite?/)|
-| ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
+| ***Possible Bipartition***  | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=study-plan&id=graph-i)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|

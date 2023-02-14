@@ -57,6 +57,6 @@
 | ***Find Eventual Safe States***  | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/?envType=study-plan&id=graph-i)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)|
 | ***Possible Bipartition***  | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=study-plan&id=graph-i)|
-| ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
+| ***Time Needed to Inform All Employees***  | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|
 | ***Maximal Network Rank***  | [1615. Maximal Network Rank](https://leetcode.com/problems/pacific-atlantic-water-flow/)|

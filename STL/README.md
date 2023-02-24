@@ -26,7 +26,7 @@
 | ***Collecting Syrup***  | [Collecting Syrup](https://codeforces.com/gym/103584/problem/D)|
 | ***232. Implement Queue using Stacks***  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|
 | ***20. Valid Parentheses***  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+| ***682. Baseball Game***  | [Baseball Game](https://leetcode.com/problems/baseball-game/)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 | ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

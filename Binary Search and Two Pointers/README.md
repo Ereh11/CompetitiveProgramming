@@ -12,7 +12,7 @@
 | ***Books***  | [Books](https://codeforces.com/problemset/problem/279/B)|
 | ***Inflation***  | [Inflation](https://codeforces.com/contest/1476/problem/B)|
 | ***Fruit Into Baskets***  | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|
-| ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
+| ***3. Longest Substring Without Repeating Characters***  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|
 | ***MST***  | [MST SPOJ - MST](https://www.spoj.com/problems/MST/en/)|

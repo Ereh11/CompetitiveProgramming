@@ -60,3 +60,4 @@
 | ***Time Needed to Inform All Employees***  | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|
 | ***Find Eventual Safe States***  | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|
 | ***Jump Game IV***  | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|
+| ***Island Perimeter***  | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|

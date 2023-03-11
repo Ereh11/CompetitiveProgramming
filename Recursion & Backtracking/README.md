@@ -1,4 +1,4 @@
-| Challenge Link |
+|ID|Challenge Link |
 |--|-----------------|
 |01|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |02|[980. Unique Paths III](https://www.spoj.com/problems/HRECURS/en/)|

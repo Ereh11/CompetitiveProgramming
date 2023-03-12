@@ -6,7 +6,7 @@
 |04|[46. Permutations](https://leetcode.com/problems/permutations/)|
 |05|[78. Subsets](https://leetcode.com/problems/subsets/)|
 |06|[2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|
-|07|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|07|[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|
 |08|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |09|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |10|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

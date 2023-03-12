@@ -9,7 +9,7 @@
 |07|[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|
 |08|[51. N-Queens](https://leetcode.com/problems/n-queens/)|
 |09|[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|
-|10|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|10|[1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|
 |11|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |12|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |13|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

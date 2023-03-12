@@ -7,8 +7,8 @@
 |05|[78. Subsets](https://leetcode.com/problems/subsets/)|
 |06|[2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|
 |07|[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|
-|08|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
-|09|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|08|[51. N-Queens](https://leetcode.com/problems/n-queens/)|
+|09|[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|
 |10|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |11|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |12|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

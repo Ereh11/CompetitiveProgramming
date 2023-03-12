@@ -10,7 +10,7 @@
 |08|[51. N-Queens](https://leetcode.com/problems/n-queens/)|
 |09|[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|
 |10|[1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|
-|11|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|11|[1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters//)|
 |12|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |13|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |14|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

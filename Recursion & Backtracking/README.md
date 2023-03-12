@@ -3,7 +3,7 @@
 |01|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |02|[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|
 |03|[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|
-|04|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|04|[46. Permutations](https://leetcode.com/problems/permutations/)|
 |05|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |06|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |07|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

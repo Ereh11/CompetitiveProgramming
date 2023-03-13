@@ -12,7 +12,7 @@
 |10|[1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|
 |11|[1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters//)|
 |12|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|
-|13|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|13|[Weird Algorithm](https://cses.fi/problemset/task/1068/)|
 |14|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |15|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |16|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

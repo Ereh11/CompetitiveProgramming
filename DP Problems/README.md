@@ -5,7 +5,7 @@
 |03| ***Princess Faridae***  | [TFARIDA - Princess Farida spoj](https://www.spoj.com/problems/FARIDA/en/)|
 |04| ***Wachovia Bank***  | [WACHOVIA - Wachovia Bank spoj](https://www.spoj.com/problems/WACHOVIA/en/)|
 |05| ***Delete and Earn***  | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|
-|06| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|06| ***Knight Dialer***  | [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/)|
 |07| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |08| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |09| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

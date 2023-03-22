@@ -17,6 +17,6 @@
 |15|[1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|
 |16|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|
 |17|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|
-|18|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|18|[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|
 |19|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |20|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

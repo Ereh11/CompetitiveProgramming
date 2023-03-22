@@ -16,7 +16,7 @@
 |14|[2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|
 |15|[1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|
 |16|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|
-|17|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|17|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|
 |18|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |19|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |20|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

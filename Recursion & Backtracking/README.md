@@ -13,7 +13,7 @@
 |11|[1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters//)|
 |12|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|
 |13|[Weird Algorithm](https://cses.fi/problemset/task/1068/)|
-|14|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|14|[2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|
 |15|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |16|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |17|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

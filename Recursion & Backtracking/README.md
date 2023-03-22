@@ -14,7 +14,7 @@
 |12|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|
 |13|[Weird Algorithm](https://cses.fi/problemset/task/1068/)|
 |14|[2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|
-|15|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|15|[1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|
 |16|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |17|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
 |18|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|

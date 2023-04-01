@@ -19,4 +19,4 @@
 |17|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|
 |18|[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|
 |19|[77. Combinations](https://leetcode.com/problems/combinations/)|
-|20|[HRECURS](https://www.spoj.com/problems/HRECURS/en/)|
+|20|[139. Word Break](https://leetcode.com/problems/word-break/)|

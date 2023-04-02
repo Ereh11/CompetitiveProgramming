@@ -1,51 +1,41 @@
-| Challenge | Link |
-| ------------------ | ------------------|
-| ***Throwing cards away***  | [Throwing cards away I UVA - 10935](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
-| ***Rails***  | [Rails UVA - 514](https://vjudge.net/problem/UVA-514)|
-| ***Parentheses Balance***  | [Parentheses Balance UVA - 673](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=614)|
-| ***Left Rotation***  | [Left Rotation HackerRank - array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|
-| ***Jzzhu and Children***  | [Jzzhu and Children CodeForces - 450A](https://codeforces.com/problemset/problem/450/A)|
-| ***Just Next***  | [Just Next !!! SPOJ - JNEXT](https://www.spoj.com/problems/JNEXT/)|
-| ***Give Me This Pizza***  | [Give Me This Pizza Gym - 101343H](https://codeforces.com/gym/101343/problem/H)|
-| ***Easy Stack***  | [Easy Stack SPOJ - STACKEZ](https://www.spoj.com/problems/STACKEZ/)|
-| ***Easy Queue***  | [Easy Queue SPOJ - QUEUEEZ](https://www.spoj.com/problems/QUEUEEZ/)|
-| ***Card Deck***  | [Card Deck CodeForces - 1492B](https://codeforces.com/problemset/problem/1492/B)|
-| ***Alternating Current***  | [Alternating Current CodeForces - 343B](https://codeforces.com/problemset/problem/343/B)|
-| ***Ada and Queue***  | [Ada and Queue SPOJ - ADAQUEUE](https://www.spoj.com/problems/ADAQUEUE/)|
-| ***D1. Great Vova Wall (Version 1)***  | [D1. Great Vova Wall (Version 1) CodeForces - 1092D1](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/26/problem/B)|
-| ***Indian Summer***  | [Indian Summer CodeForces](https://codeforces.com/problemset/problem/44/A)|
-| ***Boy or Girl***  | [Boy or Girl CodeForces](https://codeforces.com/problemset/problem/236/A)|
-| ***Plug-in***  | [Plug-in CodeForces](https://codeforces.com/contest/81/problem/A)|
-| ***Broken Keyboard***  | [Broken Keyboard - 11988](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3139)|
-| ***Catch Overflow!***  | [Catch Overflow! CodeForces](https://codeforces.com/contest/1175/problem/B)|
-| ***Chat Order***  | [Chat Order CodeForces](https://codeforces.com/contest/637/problem/B)|
-| ***Mahmoud and Ehab and the message***  | [Mahmoud and Ehab and the message CodeForces](https://codeforces.com/contest/959/problem/B)|
-| ***Summarize to the Power of Two***  | [Summarize to the Power of Two CodeForces](https://codeforces.com/contest/1005/problem/C)|
-| ***Honest Coach CodeForces***  | [Honest Coach CodeForces - 1360B](https://codeforces.com/contest/1360/problem/B)|
-| ***Collecting Syrup***  | [Collecting Syrup](https://codeforces.com/gym/103584/problem/D)|
-| ***232. Implement Queue using Stacks***  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|
-| ***20. Valid Parentheses***  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|
-| ***682. Baseball Game***  | [Baseball Game](https://leetcode.com/problems/baseball-game/)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
-| ***Regular Bracket Sequence***  | [Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|ID|Challenge Link |
+|--| ------------------|
+|01|[Throwing cards away I UVA - 10935](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
+|02|[Rails UVA - 514](https://vjudge.net/problem/UVA-514)|
+|03|[Parentheses Balance UVA - 673](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=614)|
+|04|[Left Rotation HackerRank - array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|
+|05|[Jzzhu and Children CodeForces - 450A](https://codeforces.com/problemset/problem/450/A)|
+|06|[Just Next !!! SPOJ - JNEXT](https://www.spoj.com/problems/JNEXT/)|
+|07|[Give Me This Pizza Gym - 101343H](https://codeforces.com/gym/101343/problem/H)|
+|08|[Easy Stack SPOJ - STACKEZ](https://www.spoj.com/problems/STACKEZ/)|
+|09|[Easy Queue SPOJ - QUEUEEZ](https://www.spoj.com/problems/QUEUEEZ/)|
+|10|[Card Deck CodeForces - 1492B](https://codeforces.com/problemset/problem/1492/B)|
+|11|[Alternating Current CodeForces - 343B](https://codeforces.com/problemset/problem/343/B)|
+|12|[Ada and Queue SPOJ - ADAQUEUE](https://www.spoj.com/problems/ADAQUEUE/)|
+|13|[D1. Great Vova Wall (Version 1) CodeForces - 1092D1](https://codeforces.com/contest/1092/problem/D1)|
+|14|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/26/problem/B)|
+|15|[Indian Summer CodeForces](https://codeforces.com/problemset/problem/44/A)|
+|16|[Boy or Girl CodeForces](https://codeforces.com/problemset/problem/236/A)|
+|17|[Plug-in CodeForces](https://codeforces.com/contest/81/problem/A)|
+|18|[Broken Keyboard - 11988](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3139)|
+|19|[Catch Overflow! CodeForces](https://codeforces.com/contest/1175/problem/B)|
+|20|[Chat Order CodeForces](https://codeforces.com/contest/637/problem/B)|
+|21|[Mahmoud and Ehab and the message CodeForces](https://codeforces.com/contest/959/problem/B)|
+|22|[Summarize to the Power of Two CodeForces](https://codeforces.com/contest/1005/problem/C)|
+|23|[Honest Coach CodeForces - 1360B](https://codeforces.com/contest/1360/problem/B)|
+|24|[Collecting Syrup](https://codeforces.com/gym/103584/problem/D)|
+|25|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|
+|26|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|
+|27|[Baseball Game](https://leetcode.com/problems/baseball-game/)|
+|28|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|
+|29|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|30|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|31|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|32|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|33|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|34|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|35|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|36|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|37|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|38|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|39|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

@@ -30,7 +30,7 @@
 |28|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|
 |29|[1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|
 |30|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|
-|31|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|31|[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|
 |32|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |33|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |34|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

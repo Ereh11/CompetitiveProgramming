@@ -18,5 +18,5 @@
 |16|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|
 |17|[CSES - Repetitions](https://cses.fi/problemset/result/5653572/)|
 |18|[704. Binary Search](https://leetcode.com/problems/binary-search/)|
-|19|2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|
+|19|[2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|
 |20|[881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|

@@ -32,7 +32,7 @@
 |30|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|
 |31|[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|
 |32|[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|
-|33|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|33|[2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|
 |34|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |35|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |36|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

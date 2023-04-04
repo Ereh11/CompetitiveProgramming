@@ -61,3 +61,4 @@
 |59|[1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|
 |60|[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|
 |61|[2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)|
+|62|[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|

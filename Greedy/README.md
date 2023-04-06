@@ -7,7 +7,7 @@
 |05|[Alphabetic Removals](https://codeforces.com/contest/999/problem/C)|
 |06|[Andryusha and Socks](https://codeforces.com/contest/780/problem/A)|
 |07|[Letter](https://codeforces.com/contest/43/problem/B)|
-|08|[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
+|08|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|
 |09|[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
 |10|[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|
 |11|[Karen and Coffee CodeForces](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1876)|

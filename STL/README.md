@@ -34,7 +34,7 @@
 |32|[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|
 |33|[2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|
 |34|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
-|35|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|35|[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|
 |36|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |37|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |38|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

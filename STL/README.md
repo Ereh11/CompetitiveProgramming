@@ -35,7 +35,7 @@
 |33|[2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|
 |34|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 |35|[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|
-|36|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
+|36|[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|
 |37|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |38|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|
 |39|[Regular Bracket Sequence CodeForces](https://codeforces.com/contest/1092/problem/D1)|

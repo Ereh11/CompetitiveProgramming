@@ -6,7 +6,7 @@
 |04|[WACHOVIA - Wachovia Bank spoj](https://www.spoj.com/problems/WACHOVIA/en/)|
 |05|[740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|
 |06|[935. Knight Dialer](https://leetcode.com/problems/knight-dialer/)|
-|07|[516. Longest Palindromic Subsequence](https://codeforces.com/contest/1092/problem/D1)|
+|07|[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|
 |08|[516. Longest Palindromic Subsequence](https://codeforces.com/contest/1092/problem/D1)|
 |09|[516. Longest Palindromic Subsequence](https://codeforces.com/contest/1092/problem/D1)|
 |10|[516. Longest Palindromic Subsequence](https://codeforces.com/contest/1092/problem/D1)|
